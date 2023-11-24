@@ -1,0 +1,7 @@
+{
+  "name": "AppWallet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
